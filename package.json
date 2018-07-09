@@ -76,7 +76,7 @@
     "devPort": 6075,
     "studioPort": 6076,
     "plugins": [],
-    "css": "less"
+    "css": "sass"
   },
   "jest": {
     "collectCoverageFrom": [
